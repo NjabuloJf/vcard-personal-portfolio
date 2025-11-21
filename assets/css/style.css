@@ -18,7 +18,7 @@ html { font-family: var(--ff-poppins); }
 
 body {
   /* background: var(--smoky-black); */   /* ← comment this out */
-  background: #fff;                       /* white background */
+  background: var(--white-1);                      /* white background */
 }
 
 :root {
