@@ -64,7 +64,7 @@ body {
 
   --jet: hsl(0, 0%, 22%);
   --onyx: hsl(240, 1%, 17%);
-  --white-1: hsl(240, 2%, 13%);
+  --purple-1: hsl(240, 2%, 13%);
   --eerie-black-2: hsl(240, 2%, 12%);
   --smoky-black: hsl(0, 0%, 7%);
   --white-1: hsl(0, 0%, 100%);
@@ -153,7 +153,7 @@ input, textarea {
 }
 
 ::selection {
-  background: var(--orange-yellow-crayola);
+  background: var(--orange-purple-crayola);
   color: var(--smoky-white);
 }
 
