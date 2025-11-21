@@ -22,6 +22,9 @@ body {
 }
 
 :root {
+	--white-1: hsl(0, 0%, 100%);
+  /* …other vars… */
+}
 
 
   /**
