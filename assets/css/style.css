@@ -207,7 +207,7 @@ article {
   content: "";
   position: absolute;
   inset: 1px;
-  background: var(--eerie-white-1);
+  background: var(--eerie-purple-1);
   border-radius: inherit;
   z-index: -1;
 }
