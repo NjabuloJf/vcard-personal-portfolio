@@ -14,8 +14,17 @@
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
+html { font-family: var(--ff-poppins); }
+
+body {
+  /* background: var(--smoky-black); */   /* ← comment this out */
+  background: #fff;                       /* white background */
+}
 
 :root {
+  --white-1: hsl(0, 0%, 100%);
+  /* … other variables … */
+} 
 
   /**
    * colors
