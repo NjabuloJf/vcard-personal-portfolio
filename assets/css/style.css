@@ -14,7 +14,6 @@
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
-html { font-family: var(--ff-poppins); }
 
 body {
   /* background: var(--smoky-black); */   /* ← comment this out */
@@ -22,9 +21,6 @@ body {
 }
 
 :root {
-	--white-1: hsl(0, 0%, 100%);
-  /* …other vars… */
-}
 
 
   /**
@@ -158,7 +154,7 @@ input, textarea {
 
 ::selection {
   background: var(--orange-yellow-crayola);
-  color: var(--smoky-black);
+  color: var(--smoky-white);
 }
 
 :focus { outline-color: var(--orange-yellow-crayola); }
